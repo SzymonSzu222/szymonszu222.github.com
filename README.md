@@ -1,5 +1,3 @@
-# szymonszu222.github.com
-Zadanie numer 1
 <!DOCTYPE html>
 
           <html lang="pl-PL">
